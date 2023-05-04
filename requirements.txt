@@ -4,5 +4,5 @@ boto3==1.26.84
 redis==4.1.0
 jsonpickle==2.0.0
 mattermostdriver==7.3.2
-dulwich==0.20.31
+dulwich==0.21.5
 cryptography==38.0.4
